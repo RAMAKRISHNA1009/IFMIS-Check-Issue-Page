@@ -40,21 +40,21 @@
   - File picker should open and select mulitple files
     On click of NEXT button show all validations at once below respective inputs.
 
-The Large Screen View:
+# Large Screen View:
 
 ![- IFMIS -](https://github.com/RAMAKRISHNA1009/IFMIS-Check-Issue-Page/assets/95414437/03df962f-9eb9-4e09-8be3-4993ab087768)
 
 
-On click Toggler Button view :
+# On click Toggler Button view :
 
 ![Screenshot (72)](https://github.com/RAMAKRISHNA1009/IFMIS-Check-Issue-Page/assets/95414437/4bb59ef0-c0ec-4226-91f9-9a9bbcdeda29)
 
-If Validations :
+# If Validations :
 
 ![Validations - IFMIS -](https://github.com/RAMAKRISHNA1009/IFMIS-Check-Issue-Page/assets/95414437/e3ca2d67-d575-49db-be6a-4b0b6c863420)
 
 
-Mobile View :
+# Mobile View :
 
 ![Screenshot (74)](https://github.com/RAMAKRISHNA1009/IFMIS-Check-Issue-Page/assets/95414437/ce68b739-9591-4b4e-8e26-2ec2d7c45a77)
 
