@@ -42,9 +42,8 @@
 
 The Large Screen View:
 
-![Screenshot (70)](https://github.com/RAMAKRISHNA1009/IFMIS-Check-Issue-Page/assets/95414437/e43d4aa8-0b3d-474b-8b19-e6b88987e64f)
+![- IFMIS -](https://github.com/RAMAKRISHNA1009/IFMIS-Check-Issue-Page/assets/95414437/03df962f-9eb9-4e09-8be3-4993ab087768)
 
-![Screenshot (75)](https://github.com/RAMAKRISHNA1009/IFMIS-Check-Issue-Page/assets/95414437/0b550629-cdbf-42ea-8c9c-5fdf245c52e0)\
 
 On click Toggler Button view :
 
@@ -52,7 +51,8 @@ On click Toggler Button view :
 
 If Validations :
 
-![Screenshot (76)](https://github.com/RAMAKRISHNA1009/IFMIS-Check-Issue-Page/assets/95414437/1131973b-00dc-41f1-89a5-a2b242c0a00f)
+![Validations - IFMIS -](https://github.com/RAMAKRISHNA1009/IFMIS-Check-Issue-Page/assets/95414437/e3ca2d67-d575-49db-be6a-4b0b6c863420)
+
 
 Mobile View :
 
